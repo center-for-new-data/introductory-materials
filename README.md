@@ -1,4 +1,4 @@
-# introductory-materials
+# Introductory Materials
 
 Welcome to the Center for New Data's introductory materials repository. If you are unfamiliar with the Center for New Data, check out our <a href = "https://www.newdata.org/"> website </a> and follow us on <a href="https://mobile.twitter.com/center4newdata"> Twitter </a>!
 
