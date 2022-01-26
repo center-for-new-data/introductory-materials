@@ -10,8 +10,6 @@ We acquire novel data sources; turn raw data into usable data by cultivating col
 
 ## This Repository
 
-[note: the notebook links are broken because the repository is currently private]
-
 This repo serves as a public-facing space for us to share introductory materials with prospective volunteers and anybody else who is curious about what we do. We have shared two notebooks. 
 -  A [ "Getting Started" notebook](https://nbviewer.jupyter.org/github/center-for-new-data/introductory-materials/blob/main/notebooks/Introduction.ipynb?flush_cache=true) which describes some of the Center for New Data's technology stack and how we interact with it.
 -  A [notebook](https://nbviewer.jupyter.org/github/center-for-new-data/introductory-materials/blob/main/notebooks/ElectoralFairness.ipynb?flush_cache=true) walking through a [dataset](https://github.com/center-for-new-data/introductory-materials/blob/main/data/percent-waiting-over-thirty-minutes-ga-early-vote.csv) produced by Center for New Data researchers. The notebook assesses the impact of poll closures in the run up to the 2021 Georgia Senate runoff election.
